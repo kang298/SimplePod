@@ -11,4 +11,5 @@
 @interface Object : NSObject
 
 @property (nonatomic,strong)NSString* checkVersion;
+-(void)test;
 @end
