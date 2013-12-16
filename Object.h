@@ -10,4 +10,5 @@
 
 @interface Object : NSObject
 
+@property (nonatomic,strong)checkVersion;
 @end
